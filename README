@@ -1,0 +1,15 @@
+# Projeto RPA - Chuck Norris API
+
+Este projeto realiza automação com Python para:
+- Coletar piadas da API do Chuck Norris
+- Armazenar e processar os dados em SQLite
+- Enviar relatório automatizado por e-mail
+
+## API Utilizada
+[Chuck Norris API](https://api.chucknorris.io/)
+
+## Como executar
+
+```bash
+pip install -r requirements.txt
+python main.py

@@ -15,9 +15,9 @@ def enviar_email():
         corpo += f"ID: {id}\nPalavras longas: {palavras}\n\n"
 
     # Configuração do seu e-mail
-    email_origem = "SEU_EMAIL@gmail.com"
-    senha = "SENHA_DE_APP"
-    email_destino = "DESTINATARIO@gmail.com"
+    email_origem = "frazaoarthur710@gmail.com"
+    senha = "dyfi ubea lquz sqqu"
+    email_destino = "arthurgrazao@gmail.com"
 
     mensagem = EmailMessage()
     mensagem.set_content(corpo)
